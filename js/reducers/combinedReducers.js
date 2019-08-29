@@ -1,12 +1,10 @@
 import { combineReducers } from 'redux';
 import { routerReducer } from 'react-router-redux';
-import { reducer as reduxFormReducer } from 'redux-form';
 import fetchReducer, * as fromFetchReducer from './fetchReducer';
 import appReducer from './appReducer';
 
 const combinedReducers = combineReducers({
     fetch: fetchReducer,
-    form: reduxFormReducer,
     app: appReducer,
     routing: routerReducer
 });
