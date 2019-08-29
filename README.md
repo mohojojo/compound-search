@@ -4,7 +4,7 @@
 
 ### Usage
 
-- Type thew name of your molecule, OR you should use the molcule drawer! It is much more fun!
+- Type the name of your molecule, OR you should use the molecule drawer! It is much more fun!
 - Click Search to get the results
 
 ### Installation
